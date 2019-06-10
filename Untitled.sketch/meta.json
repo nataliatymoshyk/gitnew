@@ -1,15 +1,6 @@
 {
 "commit" : "de199738bddcc38c4a5af7eee0589554d43d0bde",
-"pagesAndArtboards" : {
-"8387E4DF-2662-4447-AD77-E102BB20D953" : {
-"name" : "Page 1",
-"artboards" : {
-"F7E1BDDD-19A8-4DFA-B2A2-52932F9F153C" : {
-"name" : "Artboard"
-}
-}
-}
-},
+"build" : 78076,
 "version" : 118,
 "fonts" : [
 
@@ -31,5 +22,14 @@
 "NONAPPSTORE.78076"
 ],
 "appVersion" : "55",
-"build" : 78076
+"pagesAndArtboards" : {
+"8387E4DF-2662-4447-AD77-E102BB20D953" : {
+"name" : "Page 1",
+"artboards" : {
+"F7E1BDDD-19A8-4DFA-B2A2-52932F9F153C" : {
+"name" : "Artboard"
+}
+}
+}
+}
 }
