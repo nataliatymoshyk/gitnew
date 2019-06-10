@@ -1,0 +1,59 @@
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"startDecorationType" : 0,
+"_class" : "style",
+"miterLimit" : 10,
+"endDecorationType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 300,
+"width" : 300
+},
+"do_objectID" : "8387E4DF-2662-4447-AD77-E102BB20D953",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasClickThrough" : true,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Page 1",
+"isVisible" : true,
+"resizingType" : 0,
+"layers" : [
+
+],
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "page",
+"resizingConstraint" : 63
+}
