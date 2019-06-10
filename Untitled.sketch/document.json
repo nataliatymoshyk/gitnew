@@ -1,34 +1,33 @@
 {
-"_class" : "document",
+"layerStyles" : {
+"objects" : [
+
+],
+"_class" : "sharedStyleContainer"
+},
 "assets" : {
-"gradients" : [
+"_class" : "assetCollection",
+"colorAssets" : [
 
 ],
 "colors" : [
 
 ],
-"_class" : "assetCollection",
+"images" : [
+
+],
+"gradientAssets" : [
+
+],
 "imageCollection" : {
 "images" : {
 
 },
 "_class" : "imageCollection"
 },
-"images" : [
+"gradients" : [
 
 ]
-},
-"colorSpace" : 0,
-"currentPageIndex" : 0,
-"foreignSymbols" : [
-
-],
-"enableSliceInteraction" : true,
-"layerStyles" : {
-"objects" : [
-
-],
-"_class" : "sharedStyleContainer"
 },
 "pages" : [
 {
@@ -37,17 +36,29 @@
 "_ref" : "pages\/8387E4DF-2662-4447-AD77-E102BB20D953"
 }
 ],
+"foreignSymbols" : [
+
+],
+"currentPageIndex" : 0,
+"_class" : "document",
+"foreignLayerStyles" : [
+
+],
+"colorSpace" : 0,
 "layerTextStyles" : {
 "objects" : [
 
 ],
 "_class" : "sharedTextStyleContainer"
 },
-"enableLayerInteraction" : true,
 "layerSymbols" : {
 "objects" : [
 
 ],
 "_class" : "symbolContainer"
-}
+},
+"do_objectID" : "BF3380BA-4951-4619-9700-281D9A102998",
+"foreignTextStyles" : [
+
+]
 }
