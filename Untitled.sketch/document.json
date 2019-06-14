@@ -1,64 +1,40 @@
 {
-"layerStyles" : {
-"objects" : [
-
-],
-"_class" : "sharedStyleContainer"
+"_class":"document",
+"do_objectID":"BF3380BA-4951-4619-9700-281D9A102998",
+"assets":{
+"_class":"assetCollection",
+"colorAssets":[],
+"gradientAssets":[],
+"imageCollection":{
+"_class":"imageCollection",
+"images":{}
 },
-"assets" : {
-"_class" : "assetCollection",
-"colorAssets" : [
-
-],
-"colors" : [
-
-],
-"images" : [
-
-],
-"gradientAssets" : [
-
-],
-"imageCollection" : {
-"images" : {
-
+"images":[],
+"colors":[],
+"gradients":[]
 },
-"_class" : "imageCollection"
+"colorSpace":0,
+"currentPageIndex":0,
+"foreignLayerStyles":[],
+"foreignSymbols":[],
+"foreignTextStyles":[],
+"layerStyles":{
+"_class":"sharedStyleContainer",
+"objects":[]
 },
-"gradients" : [
-
-]
+"layerSymbols":{
+"_class":"symbolContainer",
+"objects":[]
 },
-"pages" : [
+"layerTextStyles":{
+"_class":"sharedTextStyleContainer",
+"objects":[]
+},
+"pages":[
 {
-"_ref_class" : "MSImmutablePage",
-"_class" : "MSJSONFileReference",
-"_ref" : "pages\/8387E4DF-2662-4447-AD77-E102BB20D953"
+"_class":"MSJSONFileReference",
+"_ref_class":"MSImmutablePage",
+"_ref":"pages/8387E4DF-2662-4447-AD77-E102BB20D953"
 }
-],
-"foreignSymbols" : [
-
-],
-"currentPageIndex" : 0,
-"_class" : "document",
-"foreignLayerStyles" : [
-
-],
-"colorSpace" : 0,
-"layerTextStyles" : {
-"objects" : [
-
-],
-"_class" : "sharedTextStyleContainer"
-},
-"layerSymbols" : {
-"objects" : [
-
-],
-"_class" : "symbolContainer"
-},
-"do_objectID" : "BF3380BA-4951-4619-9700-281D9A102998",
-"foreignTextStyles" : [
-
 ]
 }
